@@ -26,6 +26,10 @@ public class Node {
 	public Node getNext() {
 		return Next;
 	}
+
+	public String getData() {
+		return null;
+	}
 	
 }
 
